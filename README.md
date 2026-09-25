@@ -37,9 +37,11 @@ Founder of **StackIt** — a mobile social savings fintech app — and currently
 - **[StackIt](https://github.com/egbutaify2-ui/stackit)** — a mobile social savings fintech app
 - **[Sanity LensLink Agent](https://github.com/egbutaify2-ui/sanity-lenslink-agent)** — AI camera gear compatibility agent powered by Sanity structured content
 
-## 📊 GitHub Stats
+## 🌱 Currently Building / Learning
 
-![Egbuta's GitHub stats](https://github-stats-extended.vercel.app/api?username=egbutaify2-ui&show_icons=true&theme=radical)
+- 🚧 Actively building **CCGroups Mobile**, still in development
+- 📈 Growing **StackIt**, my social savings fintech app, from architecture to launch
+- 🤖 Deepening hands-on experience working with AI-assisted dev tools (Claude, Cursor, GitHub Copilot) in my day-to-day workflow
 
 ## 📫 Connect With Me
 
