@@ -45,9 +45,9 @@ I am particularly interested in building practical technology solutions, leverag
 - **[StackIt](https://github.com/egbutaify2-ui/stackit)** — a mobile social savings fintech app
 - **[Sanity LensLink Agent](https://github.com/egbutaify2-ui/sanity-lenslink-agent)** — AI camera gear compatibility agent powered by Sanity structured content
 
-## 🎮 Bonus
+## 😏 Bet You Can't Say No
 
-Try **[Would You Hire Me?](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)** — fair warning, "No" doesn't stay still 😏
+I built a tiny interactive test — click **Yes**, I'd hire me too. Try clicking **No** though: it's got other plans. **[Play it here →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)**
 
 ## 📫 Connect With Me
 
