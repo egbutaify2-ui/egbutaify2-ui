@@ -51,7 +51,7 @@ I built a tiny interactive test. Try clicking **No** though — I dare you! It's
 
 ## 📫 Connect With Me
 
-- 📱 [WhatsApp / Call](https://wa.me/2347014010018) — +234 701 401 0018
+- 📱 [WhatsApp / Call](https://wa.me/2347014010018) Click Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbuta-ifeanyi-chukwu-122650151/)
 - 📍 Lagos, Nigeria
 
