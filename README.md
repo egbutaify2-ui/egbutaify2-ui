@@ -47,7 +47,7 @@ I am particularly interested in building practical technology solutions, leverag
 
 ## 😏 Bet You Can't Say No
 
-I built a tiny interactive test — click **Yes**, I'd hire me too. Try clicking **No** though: it's got other plans. **[Play it here →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)**
+I built a tiny interactive test. Try clicking **No** though — I dare you! It's got other plans. **[Play it here →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)**
 
 ## 📫 Connect With Me
 
