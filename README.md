@@ -47,7 +47,7 @@ I am particularly interested in building practical technology solutions, leverag
 
 ## 🎮 Bonus
 
-Try **[Would You Hire Me?](https://claude.ai/artifact/2tKS4eA5PZ7xUxkzCKwi7h)** — fair warning, "No" doesn't stay still 😏
+Try **[Would You Hire Me?](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)** — fair warning, "No" doesn't stay still 😏
 
 ## 📫 Connect With Me
 
