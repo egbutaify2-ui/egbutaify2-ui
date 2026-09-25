@@ -8,6 +8,12 @@ I am the Founder of StackIt, a mobile social savings fintech platform, where I h
 
 I am particularly interested in building practical technology solutions, leveraging AI to improve development processes, and taking products from an initial idea through to a functional, user-focused application.
 
+## 💼 Open To
+
+- Freelance / contract work
+- Collaborations on interesting products
+- Full-time opportunities
+
 ## 🛠️ My Skill Set
 
 ### Frontend
