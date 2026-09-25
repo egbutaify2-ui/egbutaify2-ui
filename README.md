@@ -45,6 +45,10 @@ I am particularly interested in building practical technology solutions, leverag
 - **[StackIt](https://github.com/egbutaify2-ui/stackit)** — a mobile social savings fintech app
 - **[Sanity LensLink Agent](https://github.com/egbutaify2-ui/sanity-lenslink-agent)** — AI camera gear compatibility agent powered by Sanity structured content
 
+## 🎮 Bonus
+
+Try **[Would You Hire Me?](https://claude.ai/artifact/2tKS4eA5PZ7xUxkzCKwi7h)** — fair warning, "No" doesn't stay still 😏
+
 ## 📫 Connect With Me
 
 - 📱 [WhatsApp / Call](https://wa.me/2347014010018) — +234 701 401 0018
