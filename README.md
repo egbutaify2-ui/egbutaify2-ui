@@ -39,7 +39,7 @@ Founder of **StackIt** — a mobile social savings fintech app — and currently
 
 ## 📊 GitHub Stats
 
-![Egbuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=egbutaify2-ui&show_icons=true&theme=radical)
+![Egbuta's GitHub stats](https://github-stats-extended.vercel.app/api?username=egbutaify2-ui&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 
