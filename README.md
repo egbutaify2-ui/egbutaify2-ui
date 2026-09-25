@@ -2,9 +2,11 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer & AI Engineer based in Lagos, Nigeria, working across **React, JavaScript, Node.js, APIs, and PostgreSQL** — and building AI-powered tools into the workflow along the way.
+Full-Stack Developer and AI Engineer based in Lagos, Nigeria, with experience building scalable web and mobile applications across React, JavaScript, Node.js, APIs, and PostgreSQL. I specialize in developing end-to-end solutions, integrating AI into modern development workflows, and turning product ideas into reliable, production-ready software.
 
-Founder of **StackIt** — a mobile social savings fintech app — and currently building products end to end, from architecture and APIs to shipped mobile apps.
+I am the Founder of StackIt, a mobile social savings fintech platform, where I have led the product development from concept to implementation. My work spans system architecture, backend development, API integrations, database design, and mobile application development.
+
+I am particularly interested in building practical technology solutions, leveraging AI to improve development processes, and taking products from an initial idea through to a functional, user-focused application.
 
 ## 🛠️ My Skill Set
 
@@ -37,15 +39,9 @@ Founder of **StackIt** — a mobile social savings fintech app — and currently
 - **[StackIt](https://github.com/egbutaify2-ui/stackit)** — a mobile social savings fintech app
 - **[Sanity LensLink Agent](https://github.com/egbutaify2-ui/sanity-lenslink-agent)** — AI camera gear compatibility agent powered by Sanity structured content
 
-## 🌱 Currently Building / Learning
-
-- 🚧 Actively building **CCGroups Mobile**, still in development
-- 📈 Growing **StackIt**, my social savings fintech app, from architecture to launch
-- 🤖 Deepening hands-on experience working with AI-assisted dev tools (Claude, Cursor, GitHub Copilot) in my day-to-day workflow
-
 ## 📫 Connect With Me
 
-- 🌐 Website: [stackit.ng](https://www.stackit.ng)
+- 📱 [WhatsApp / Call](https://wa.me/2347014010018) — +234 701 401 0018
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbuta-ifeanyi-chukwu-122650151/)
 - 📍 Lagos, Nigeria
 
