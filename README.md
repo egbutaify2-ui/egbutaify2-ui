@@ -28,7 +28,7 @@ I am particularly interested in building practical technology solutions, leverag
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🤖 AI Tools I Work With
+## 🤖 I’m a skilled AI Expert 
 
 ![Claude](https://img.shields.io/badge/Claude-Intermediate-D97757?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-Intermediate-000000?style=for-the-badge)
