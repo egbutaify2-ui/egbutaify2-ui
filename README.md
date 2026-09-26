@@ -49,6 +49,10 @@ I am particularly interested in building practical technology solutions, leverag
 
 I built a tiny interactive test. Try clicking **No** though — I dare you! It's got other plans. **[Play it here →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)**
 
+## 🤔 Got Questions About Me?
+
+I built a little scripted assistant that knows my profile inside out — skills, StackIt, projects, how to reach me. Ask it anything. **[Chat with it →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/ask.html)**
+
 ## 📫 Connect With Me
 
 - 📱 [WhatsApp / Call](https://wa.me/2347014010018) Click Me
