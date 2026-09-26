@@ -8,12 +8,6 @@ I am the Founder of StackIt, a mobile social savings fintech platform, where I h
 
 I am particularly interested in building practical technology solutions, leveraging AI to improve development processes, and taking products from an initial idea through to a functional, user-focused application.
 
-## 💼 Open To
-
-- Freelance / contract work
-- Collaborations on interesting products
-- Full-time opportunities
-
 ## 🛠️ My Skill Set
 
 ### Frontend
@@ -49,15 +43,17 @@ I am particularly interested in building practical technology solutions, leverag
 
 I built a tiny interactive test. Try clicking **No** though — I dare you! It's got other plans. **[Play it here →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/)**
 
-## 🤔 Got Questions About Me?
-
-I built a little scripted assistant that knows my profile inside out — skills, StackIt, projects, how to reach me. Ask it anything. **[Chat with it →](https://egbutaify2-ui.github.io/would-you-hire-me--try-clicking-No/ask.html)**
-
 ## 📫 Connect With Me
 
 - 📱 [WhatsApp / Call](https://wa.me/2347014010018) Click Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbuta-ifeanyi-chukwu-122650151/)
 - 📍 Lagos, Nigeria
+
+## 💼 Open To
+
+- Freelance / contract work
+- Collaborations on interesting products
+- Full-time opportunities
 
 ---
 ⭐️ From [egbutaify2-ui](https://github.com/egbutaify2-ui)
