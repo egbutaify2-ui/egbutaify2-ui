@@ -32,41 +32,25 @@ I’m a **full-stack engineer, product builder, and founder of StackIt** with a 
 - 🔎 **SEO & digital marketing:** Bringing technical execution together with discoverability, content strategy, and digital growth.
 - 🌍 **Based in Lagos, Nigeria:** Open to global opportunities, collaborations, contract projects, and teams building ambitious products.
 
-### 🧪 What I’m building and exploring
-
-- **LensLink:** An AI camera-and-lens compatibility agent designed to ground answers in structured information and evidence.
-- **StackIt:** My fintech and social-savings product, currently in active development.
-- **Next up:** Becoming stronger at reliable AI systems—retrieval, tool use, evaluation, and shipping end-to-end AI features.
-
-**My approach:** stay curious, build for real users, test what I ship, and keep learning. I’m interested in the space where **AI, software engineering, product thinking, and creativity** meet.
-
 ## Featured AI work
 
 <table>
   <tr>
     <td width="100%">
-      <h3><a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent">LensLink — Evidence-Grounded AI Agent</a></h3>
+      <h3><a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent">LensLink — A Glimpse of My AI Engineering Work</a></h3>
       <p>
-        <a href="https://lenslink-civq.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Open-16A34A?style=flat-square" alt="Open live demo" /></a>
+        <a href="https://lenslink-civq.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-Explore-16A34A?style=flat-square" alt="Explore the live demo" /></a>
         <img src="https://img.shields.io/badge/Model-Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
         <img src="https://img.shields.io/badge/Context-Sanity%20MCP-F03E2F?style=flat-square" alt="Sanity Context MCP" />
-        <img src="https://img.shields.io/badge/Approach-Structured%20Retrieval-7C3AED?style=flat-square" alt="Structured retrieval" />
+        <img src="https://img.shields.io/badge/Approach-Evidence--Grounded%20AI-7C3AED?style=flat-square" alt="Evidence-grounded AI" />
       </p>
-      An AI agent that answers camera and lens compatibility questions by retrieving structured records and source evidence before generating an answer. The design distinguishes documented compatibility, documented incompatibility, and insufficient evidence, helping avoid unsupported conclusions.
+      LensLink is one public example of my work with AI: an agent that answers camera and lens compatibility questions using structured records and source evidence. It distinguishes documented compatibility, documented incompatibility, and cases where there is not enough evidence to make a reliable claim.
       <br /><br />
-      <strong>Engineering concepts demonstrated:</strong> LLM integration, agent orchestration, context retrieval, structured knowledge modelling, evidence-grounded generation, server-side secret handling, API validation, and live integration tests.
+      <strong>What it demonstrates:</strong> LLM integration, agent workflows, structured knowledge retrieval, evidence-grounded generation, API validation, server-side secret handling, and integration testing.
       <br /><br />
-      <a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent">Explore source code and technical README →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3><a href="https://github.com/egbutaify2-ui/stackit">StackIt — Fintech & Savings Product</a></h3>
-      A savings and social-finance product in active development. My work on StackIt brings together frontend and mobile experiences, backend services, data, API integrations, and real product workflows.
+      I’ve built and explored other projects across AI engineering and software development that are kept in private repositories. **Additional project details and demonstrations are available upon request.**
       <br /><br />
-      <strong>Engineering focus:</strong> full-stack product delivery, React / Vite, mobile development, Supabase / PostgreSQL, API integration, authentication, and transaction-oriented flows.
-      <br /><br />
-      <a href="https://github.com/egbutaify2-ui/stackit">Explore the repository →</a>
+      <a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent">Explore LensLink’s source code →</a>
     </td>
   </tr>
 </table>
