@@ -10,19 +10,35 @@
 
 ---
 
-## AI engineer building useful, grounded AI systems
+## 👋 Hey, I’m Egbuta Ifeanyi Chukwu
 
-I’m **Egbuta Ifeanyi Chukwu**, a software builder focused on **AI engineering, LLM-powered applications, agent workflows, and full-stack product development**.
+<div align="center">
+  <h3>🚀 Founder of StackIt · Full-Stack Engineer · AI Engineer in the making</h3>
+  <p><strong>I build digital products, connect APIs, create mobile and web experiences, and turn AI ideas into useful things people can actually use.</strong></p>
+  <img src="https://img.shields.io/badge/Founder-StackIt-14532D?style=for-the-badge&logo=leaflet&logoColor=white" alt="Founder of StackIt" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineering-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="Full-stack engineering" />
+  <img src="https://img.shields.io/badge/AI-Engineering%20%26%20Agents-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" alt="AI engineering" />
+  <img src="https://img.shields.io/badge/AI-Prompting%20%26%20Workflows-DB2777?style=for-the-badge&logo=openai&logoColor=white" alt="AI prompting and workflows" />
+</div>
 
-I enjoy turning AI capabilities into working software: connecting models to APIs and structured knowledge, designing clear instructions and context, building the application around the model, and thinking about how to make answers more useful, traceable, and dependable.
+I’m a **full-stack engineer, product builder, and founder of StackIt** with a growing focus on **AI engineering, LLM-powered applications, AI agents, and prompt engineering**. I work across web and mobile development, API integrations, backend systems, and AI-assisted workflows—and I love bringing all those pieces together to solve real problems.
 
-My work combines hands-on product building with continuous learning across the AI engineering stack. I’m especially interested in **AI agents that use tools and real information instead of relying on an unsupported model guess**.
+### ⚡ What I bring to the table
 
-- **Current AI project:** LensLink, an evidence-grounded camera and lens compatibility agent.
-- **AI stack in that project:** Gemini, Sanity structured content, Sanity Context MCP, server-side orchestration, and integration tests.
-- **Product engineering:** React / Next.js, JavaScript / TypeScript, APIs, databases, and web/mobile applications.
-- **Based in:** Lagos, Nigeria.
-- **Open to:** AI engineering opportunities, LLM application development, full-stack roles with AI, contract work, and technical collaborations.
+- 🧠 **AI engineering & prompting:** Building with LLMs, designing prompts and context, exploring agent workflows, and connecting models to tools and real data.
+- 📱 **Web & mobile development:** React, Vite, Next.js, and React Native—turning ideas into useful product experiences.
+- 🔌 **API & backend integrations:** Connecting services, handling application data, and building the systems behind the interface.
+- 🏗️ **Founder mindset:** Building **StackIt**, a fintech and savings product, while learning through real product decisions, implementation, testing, and iteration.
+- 🔎 **SEO & digital marketing:** Bringing technical execution together with discoverability, content strategy, and digital growth.
+- 🌍 **Based in Lagos, Nigeria:** Open to global opportunities, collaborations, contract projects, and teams building ambitious products.
+
+### 🧪 What I’m building and exploring
+
+- **LensLink:** An AI camera-and-lens compatibility agent designed to ground answers in structured information and evidence.
+- **StackIt:** My fintech and social-savings product, currently in active development.
+- **Next up:** Becoming stronger at reliable AI systems—retrieval, tool use, evaluation, and shipping end-to-end AI features.
+
+**My approach:** stay curious, build for real users, test what I ship, and keep learning. I’m interested in the space where **AI, software engineering, product thinking, and creativity** meet.
 
 ## Featured AI work
 
