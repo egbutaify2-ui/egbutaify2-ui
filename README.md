@@ -50,7 +50,10 @@ I’m a **full-stack engineer, product builder, and founder of StackIt** with a 
       <br /><br />
       I’ve built and explored other projects across AI engineering and software development that are kept in private repositories. **Additional project details and demonstrations are available upon request.**
       <br /><br />
-      <a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent">Explore LensLink’s source code →</a>
+      <p>
+        <a href="https://github.com/egbutaify2-ui/sanity-lenslink-agent"><img src="https://img.shields.io/badge/Explore%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore LensLink source code on GitHub" /></a>
+        <a href="https://lenslink-civq.onrender.com"><img src="https://img.shields.io/badge/🚀%20TRY%20THE%20LIVE%20DEMO-OPEN%20LENSLINK-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try the live LensLink demo" /></a>
+      </p>
     </td>
   </tr>
 </table>
