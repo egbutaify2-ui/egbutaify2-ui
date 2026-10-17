@@ -123,7 +123,7 @@ For a useful AI feature, the model call is only one part of the system. Context 
   <br />
   <img src="https://streak-stats.demolab.com?user=egbutaify2-ui&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egbutaify2-ui&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egbutaify2-ui&theme=tokyonight" width="100%" alt="GitHub profile summary and contribution activity" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egbutaify2-ui/egbutaify2-ui/output/github-contribution-grid-snake-dark.svg" />
