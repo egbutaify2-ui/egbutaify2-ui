@@ -100,11 +100,27 @@ These are the tools, techniques, and engineering areas I work with or am activel
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white)
 
-### AI-assisted development tools
+### AI-assisted development tools & platforms
 
-Claude · Gemini · GitHub Copilot · Cursor · Windsurf
+<div align="center">
+  <img src="https://img.shields.io/badge/ChatGPT%20(GPT--6)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT GPT-6" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Cline-334155?style=for-the-badge" alt="Cline" />
+  <img src="https://img.shields.io/badge/Roo%20Code-475569?style=for-the-badge" alt="Roo Code" />
+  <img src="https://img.shields.io/badge/Continue-2563EB?style=for-the-badge" alt="Continue" />
+  <img src="https://img.shields.io/badge/Aider-0F766E?style=for-the-badge" alt="Aider" />
+  <img src="https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit AI" />
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+  <img src="https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Bolt.new-64748B?style=for-the-badge" alt="Bolt.new" />
+</div>
 
-I use AI development tools to explore code, accelerate implementation, troubleshoot issues, and iterate on product ideas—while treating code review, testing, security, and verification as part of the engineering work.
+I use, evaluate, and explore AI-assisted development tools to help reason through code, accelerate implementation, troubleshoot issues, prototype interfaces, and connect models to real applications. The tools support the workflow; code review, testing, security, and verification remain part of the engineering work.
 
 ## How I think about an AI feature
 
