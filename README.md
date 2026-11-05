@@ -134,6 +134,12 @@ I use, evaluate, and explore AI-assisted development tools to help reason throug
 
 For a useful AI feature, the model call is only one part of the system. Context quality, tool permissions, structured output, error handling, secret management, and evaluation matter too. LensLink is one practical example of this approach.
 
+## Field notes
+
+Short reflections on engineering, AI systems, and building products in public.
+
+- [AI coding agents are changing how we build software. But they aren't replacing engineering.](field-notes/2026-11-05-ai-coding-agents-and-engineering.md) — November 5, 2026
+
 ## GitHub activity
 
 <div align="center">
