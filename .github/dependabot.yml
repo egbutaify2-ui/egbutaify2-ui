@@ -1,3 +1,4 @@
+# Weekly dependency update policy; routine minor and patch upgrades are grouped.
 version: 2
 updates:
   - package-ecosystem: "github-actions"
