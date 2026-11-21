@@ -6,7 +6,6 @@
   <a href="https://github.com/egbutaify2-ui"><img src="https://img.shields.io/badge/GitHub-egbutaify2--ui-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/egbuta-ifeanyi-chukwu-122650151/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://lenslink-civq.onrender.com"><img src="https://img.shields.io/badge/Live%20AI%20Project-LensLink-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white" alt="LensLink live project" /></a>
-  <img src="https://komarev.com/ghpvc/?username=egbutaify2-ui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
